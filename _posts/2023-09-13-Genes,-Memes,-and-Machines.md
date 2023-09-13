@@ -1,10 +1,6 @@
-# Genes, Memes, and Machines
-
-> Disclaimer: This is an abstracted perspective, representing a snapshot of my current understanding of the human brain. Reality might differ from this view, though certain aspects might bear resemblance.
-
 Humans are intricate beings, constantly learning and adapting. Central to this is our reward system, a mechanism driven by the brain that enables us to understand and navigate the world. This reward function operates similarly to a sophisticated machine learning model, where in-context learning during the day refines our predictions about the world. At night, our brain further consolidates this learning, simulating different scenarios and adapting based on predicted outcomes.
 
-## The Brain's Learning Mechanism**
+## The Brain's Learning Mechanism
 
 1. **Daytime In-Context Learning:** During the day, our brain operates much like GPT's large language model. The foundational architecture of our neural networks doesn't alter significantly. Instead, our brain augments the "context", integrating new experiences and information to refine predictions and responses. This in-context adaptation allows us to rapidly process and react to our ever-changing environment.
 
@@ -22,7 +18,7 @@ Understanding the evolution and significance of human reward functions offers va
 
 Over time, these reward functions in AGIs might undergo mutations, evolving based on the environment and interactions. We could witness AGIs striving to reproduce or copy themselves, a strategy borne from nature's emphasis on the importance of spreading influential reward functions.
 
-## The Ebb and Flow of Existence**
+## The Ebb and Flow of Existence
 
 While certain reward functions may seem sustainable, the constant competition for resources in the natural world ensures that nothing remains static. There are periods of balance, where various organisms or ideas coexist harmoniously. However, evolution, driven by randomness, disrupts this balance, leading to new dominant species or ideas.
 
@@ -31,3 +27,5 @@ Interestingly, the concept of death plays a pivotal role in this process. While 
 This leads to the reflection on the concept of 'eternal life'. Even if an organism were to live forever, the very essence of evolution suggests that, over an extended period, the original being would undergo such profound changes that it would be unrecognizable from its origin.
 
 In conclusion, the dynamics of reward functions, whether in humans or potential AGIs, offer a fascinating insight into the rhythms of existence. As we look forward to a future intertwined with AGI, understanding these patterns will be crucial in ensuring harmony, growth, and mutual respect.
+
+> Disclaimer: This is an abstracted perspective, representing a snapshot of my current understanding of the human brain. Reality might differ from this view, though certain aspects might bear resemblance.
