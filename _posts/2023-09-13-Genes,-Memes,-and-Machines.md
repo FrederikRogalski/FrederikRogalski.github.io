@@ -28,4 +28,6 @@ This leads to the reflection on the concept of 'eternal life'. Even if an organi
 
 In conclusion, the dynamics of reward functions, whether in humans or potential AGIs, offer a fascinating insight into the rhythms of existence. As we look forward to a future intertwined with AGI, understanding these patterns will be crucial in ensuring harmony, growth, and mutual respect.
 
+<br>
+
 > Disclaimer: This is an abstracted perspective, representing a snapshot of my current understanding of the human brain. Reality might differ from this view, though certain aspects might bear resemblance.
